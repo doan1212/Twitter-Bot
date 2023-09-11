@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "inflection": "^1.13.4",
+    "request": "^2.88.2",
+    "twit": "^2.2.11",
+    "wordfilter": "^0.2.6"
+  }
+}
